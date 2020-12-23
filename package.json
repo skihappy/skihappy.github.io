@@ -1,0 +1,26 @@
+{
+  "name": "skihappy.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "gatsby": "^2.29.1",
+    "gh-pages": "^3.1.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "deploy": "gatsby build --prefix-paths && main -d public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skihappy/skihappy.github.io.git"
+  },
+  "author": "dmitry shusterman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skihappy/skihappy.github.io/issues"
+  },
+  "homepage": "https://github.com/skihappy/skihappy.github.io#readme"
+}

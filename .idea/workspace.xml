@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ae3cc7b-1ebd-4434-85a8-0d87d10c2a39" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/visions of dreams.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/how to cure hording junk syndrome.md" beforeDir="false" afterPath="$PROJECT_DIR$/blog/how to cure hording junk syndrome.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +47,7 @@
       <option name="presentableId" value="Default" />
       <updated>1608696524304</updated>
       <workItem from="1608696525477" duration="6234000" />
-      <workItem from="1608827768448" duration="1706000" />
+      <workItem from="1608827768448" duration="3331000" />
     </task>
     <servers />
   </component>

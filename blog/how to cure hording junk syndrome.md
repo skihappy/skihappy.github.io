@@ -1,5 +1,5 @@
 The piles of junk around curbside communities is a familiar site. No one likes it, inside or outside the encampments.
-The reason it happens is simply the lack of any other resources but the trash and refuse, plenty of that in our society.
+The reason it happens, besides illegal dumping, is simply the lack of any other resources but the trash and refuse, plenty of that in our society.
 
 So, we are building a beautiful cob village, about to be overrun by ugly junk. At the end of evolution, we simply 
 created another ugly camp and proved futility of our own efforts. Well be a laughingstock and donations will dry up.
